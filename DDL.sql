@@ -10,3 +10,5 @@ CREATE TABLE TB_ENDERECO (
     complemento  VARCHAR2(30)
 );
 
+
+
